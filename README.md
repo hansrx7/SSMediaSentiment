@@ -2,7 +2,7 @@
 
 1. Sentiment Analysis on Social Media Data                                                                            ta
 
-*Skills Highlighted:*
+**Skills Highlighted:**
 - *Programming Languages:* Python
 - *AI and Machine Learning Frameworks:* Hugging Face, TensorFlow
 - *AI Technologies:* Natural Language Processing (NLP)
